@@ -37,7 +37,7 @@ Let's get started (via root user)
     wget --no-check-certificate -qO ~/Linux-Remote-Desktop-Environment.sh 'https://tech.cxthhhhh.com/tech-tools/Linux-Remote-Desktop-Environment/Linux-Remote-Desktop-Environment.sh' && chmod a+x ~/Linux-Remote-Desktop-Environment.sh
     (CentOS 7+)			bash ~/Linux-Remote-Desktop-Environment.sh -CentOS
     (Debian 9+)			bash ~/Linux-Remote-Desktop-Environment.sh -Debian
-    (Ubuntu 18.04+)		bash ~/Linux-Remote-Desktop-Environment.sh -Ubuntu
+    (Ubuntu 18.04+)			bash ~/Linux-Remote-Desktop-Environment.sh -Ubuntu
 
 Now that you have done it, you can connect via RDP (IP: 3389)
 
@@ -48,5 +48,5 @@ You should check out my tutorial to find out what you need to pay attention to.
     Tutorial name : [Original] One-click installation of Desktop environment, RDP, Windows support for Linux
     URL : https://tech.cxthhhhh.com/linux/2018/08/07/original-one-click-installation-of-desktop-environment-rdp-windows-support-for-linux-en.html
 
-Version 2.0.0 (stable version)
+Version 2.0.1 (stable version)
 Updated on Sep 10, 2018
