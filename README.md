@@ -48,5 +48,5 @@ You should check out my tutorial to find out what you need to pay attention to.
     Tutorial name : [Original] One-click installation of Desktop environment, RDP, Windows support for Linux
     URL : https://tech.cxthhhhh.com/linux/2018/08/07/original-one-click-installation-of-desktop-environment-rdp-windows-support-for-linux-en.html
 
-Version 2.0.1 (stable version)
-Updated on Sep 10, 2018
+Version 2.0.2 (stable version)
+Updated on Sep 11, 2018

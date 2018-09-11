@@ -4,7 +4,7 @@ echo -e "\n"
 clear
 echo -e "\n"
 echo "---------------------------------------------------------------------------------------------------------------------"
-echo -e "\033[33m Welcome to Desktop environment and Remote connection tool ! V2.0.0 \033[0m"
+echo -e "\033[33m Welcome to Desktop environment and Remote connection tool ! V2.0.2 \033[0m"
 echo "System requirements: CentOS 7+ / Debian 9+ / Ubuntu 18.04+ New installation"
 echo -e "\033[33m This shell is for the system: Debian 9+, if you need to run on other systems, please refer to the following tutorial. \033[0m"
 echo "[Original] One-click installation of Desktop environment, RDP, Windows support for Linux"
@@ -597,7 +597,7 @@ echo -e "\n"
 cd /root
 sudo wget -O ~/Libpng12-0.deb https://raw.githubusercontent.com/MeowLove/Linux-Remote-Desktop-Environment/master/Download/Common/WPS/Debian/libpng12-0_1.2.50-2+deb8u3_amd64.deb
 sudo dpkg -i ~/Libpng12-0.deb
-sudo wget -O ~/WPS-Office.deb https://raw.githubusercontent.com/MeowLove/Linux-Remote-Desktop-Environment/master/Download/Common/WPS/wps-office_10.1.0.5707~a21_amd64.deb
+sudo wget -O ~/WPS-Office.deb https://raw.githubusercontent.com/MeowLove/Linux-Remote-Desktop-Environment/master/Download/Common/WPS/wps-office_10.1.0.5707_a21_amd64.deb
 sudo dpkg -i ~/WPS-Office.deb
 sudo wget -O ~/WPS-Office-Fonts.deb https://raw.githubusercontent.com/MeowLove/Linux-Remote-Desktop-Environment/master/Download/Common/WPS/wps-office-fonts_1.0_all.deb
 sudo dpkg -i ~/WPS-Office-Fonts.deb
@@ -680,11 +680,11 @@ echo -e "\033[33m Warning: Now, you need to pay attention to the following, plea
 echo "[Original] One-click installation of Desktop environment, RDP, Windows support for Linux"
 echo "https://tech.cxthhhhh.com/linux/2018/08/07/original-one-click-installation-of-desktop-environment-rdp-windows-support-for-linux-en.html"
 echo "---------------------------------------------------------------------------------------------------------------------"
-echo "End to Desktop environment and Remote connection tool ! V2.0.0"
+echo "End to Desktop environment and Remote connection tool ! V2.0.2"
 echo -e "\033[33m Everything is ready and the system is restarting. Then you can connect via (RDP)IP:3389. \033[0m"
 echo "Normally, the [root] user is not recommended. The new user [RdpUser] has been created with the password [cxthhhhh.com]. Please change the default password as soon as possible after login."
 echo "---------------------------------------------------------------------------------------------------------------------"
-echo "from https://tech.cxthhhhh.com - 2018/09/10 - MeowLove"
+echo "from https://tech.cxthhhhh.com - 2018/09/11 - MeowLove"
 echo "---------------------------------------------------------------------------------------------------------------------"
 sleep 5s
 reboot
